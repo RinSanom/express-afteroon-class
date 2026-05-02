@@ -1,0 +1,31 @@
+# ExpressJs With TypeScript Setup 
+    - step 1 : init Projct
+        ```
+        npm init
+
+        ```
+    - step 2 : Install dependencies
+        ```
+        npm install express --save
+        npm install typescript --save-dev
+        npm i -D @types/node @types/express
+
+        ```
+    - step 3: Generate tsconfig.json
+        ```
+        npx tsc --init
+
+        ```
+    - step 4 : Project structure 
+
+
+## home Work 
+    - UserData
+    - Product 
+    - Department 
+    -  
+    - 
+## Research  ( what / why / when )
+    - HTTP Method 
+    - HTTP Status
+    
